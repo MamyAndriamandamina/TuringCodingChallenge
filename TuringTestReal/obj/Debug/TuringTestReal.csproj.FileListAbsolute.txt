@@ -1,0 +1,6 @@
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\bin\Debug\TuringTestReal.exe.config
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\bin\Debug\TuringTestReal.exe
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\bin\Debug\TuringTestReal.pdb
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\obj\Debug\TuringTestReal.csproj.CoreCompileInputs.cache
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\obj\Debug\TuringTestReal.exe
+C:\Users\mamyrand\source\repos\TuringTestReal\TuringTestReal\obj\Debug\TuringTestReal.pdb
